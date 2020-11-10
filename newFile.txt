@@ -1,0 +1,34 @@
+GIVEN a Node.js application using Sequelize and Passport
+WHEN I follow the walkthrough
+THEN I understand the codebase
+
+Develop ---
+-- Config --
+- config.json
+- middleware -  // isauthenticated.js
+- passport.js
+
+-- Models --
+- index.js
+- user.js
+
+Package.json
+
+-- Public --
+- js --
+- login.js
+- members.js
+- signup.js
+- login.htmll
+- members.htmll
+- signup.htmll
+-- stylesheets --
+- style.css
+
+
+-- Routes --
+-api-routes.js
+-html-routes.js
+
+
+Server.js
